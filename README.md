@@ -14,13 +14,14 @@ Security & DevTools: Laravel Sanctum | CSRF & Bcrypt Protection | Git & GitHub
 Methodology: Agile SDLC (Iterative Sprints)
 This milestone wouldn't have been possible without the brilliant synergy of my teammates Ahmad and Abdulrahman, and the invaluable mentorship of our supervisor, Prof. Khaled Batiha, whose constant guidance kept us on the right 
 .engineering path
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/1d78edc9-0b4a-4a64-b19b-bd16d3027bff" />
+
 
 
 <img width="399" height="800" alt="1779968417741" src="https://github.com/user-attachments/assets/3606e2f6-db5f-42cf-83a5-2e8012cdf866" />
 Mobile Browse Jobs Screen
 
 The job search interface in the AJEER mobile app, featuring keyword search, a horizontal category filter bar, and detailed job cards with direct application toggles
-///////////////////////////////////////////////////////////////////////
 
 
 
@@ -29,7 +30,6 @@ The job search interface in the AJEER mobile app, featuring keyword search, a ho
 Mobile My Profile Screen
 
 The profile management screen in the AJEER mobile app, allowing job seekers to view and update their personal information, skills, and availability schedule.
-/////////////////////////////////////////////////////////////////////
 
 <img width="396" height="800" alt="1779968417636" src="https://github.com/user-attachments/assets/548e05db-d732-4c6c-be77-3ebbb1951a29" />
 
